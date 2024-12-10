@@ -1,23 +1,58 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anthony%20Gibilaro&fontSize=45&fontAlignY=40&fontColor=fff&animation=fadeIn" />
-
 <div align="center">
 
-👋 Hi, I'm **Anthony Gibilaro**!  
-🎯 **Full Stack Web Developer** passionate about modern technologies.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FE8B30,50:ff9800,100:FE8B30&height=300&section=header&text=Anthony%20Gibilaro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=22)
 
-[Read this in French](README.md)
+[![Profile Visits](https://komarev.com/ghpvc/?username=AnthonyGibilaro&color=blueviolet&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/AnthonyGibilaro)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonygibilaro/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4cc9f0?style=for-the-badge&logo=google-chrome)](https://www.gibilab.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-4361ee?style=for-the-badge&logo=gmail)](mailto:contact@gibilab.com)  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Experience+in+Next.js+and+TypeScript;Looking+for+an+Apprenticeship" alt="Typing SVG" />
 
 </div>
+
+[Read this in French](README.md)
 
 ---
 
 ## 🧑‍💻 **About Me**
 
-- 🔍 Currently looking for an apprenticeship  
-- 🎓 Holder of a Bac+2 degree in web development from the [Web@cademie by Epitech](https://www.epitech.eu/)  
+- 🔍 **Actively looking for an apprenticeship**  
+- 🎓 Holder of a Bac+2 diploma in web development from [Web@cademie by Epitech](https://www.epitech.eu/)  
 - 💻 Passionate about **Next.js**, **TypeScript**, and **TailwindCSS**  
 - 🐾 Animal lover, proud companion of **Crunsh** and **Twix** 🐱  
-- 🌱 Always looking to learn new things and face technical challenges  
+- 🌱 Always seeking new knowledge and technical challenges  
+
+---
+
+## 🚀 **Professional Background**
+
+<table>
+<tr>
+<td>
+
+### 🎯 **Objective**
+- 🔍 Actively seeking an apprenticeship in web development  
+- 🌱 Passionate about continuous learning  
+- 💡 Contributing to innovative and impactful projects  
+
+### 🎓 **Education**
+- Bac+2 diploma from **Web@cademie by Epitech**  
+- Focused on modern web technologies and agile methodologies  
+
+### 💼 **Experience**
+- Academic and personal projects using various technologies  
+- Team collaboration on web projects  
+- Continuous tech watch to stay up-to-date  
+
+</td>
+<td>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,38 +84,16 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthonyGibilaro&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGibilaro&layout=compact&theme=radical&langs_count=8)
-
-</div>
-
----
-
-## 🔥 **Contribution Streak**
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnthonyGibilaro&theme=radical&count_private=true)
-
-</div>
-
----
-
 ## 📫 **Contact Me**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-contact@gibilab.com-3c3c3c?style=flat&logo=protonmail&logoColor=white)](mailto:contact@gibilab.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Gibilaro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-gibilaro/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-gibilab.com-ff9800?style=flat&logo=web&logoColor=white)](https://www.gibilab.com)
+[![Email](https://img.shields.io/badge/Email-contact@gibilab.com-3c3c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gibilab.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Gibilaro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonygibilaro)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-agibilaro.com-ff9800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gibilab.com)
 
 </div>
 
 ---
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FE8B30,50:ff9800,100:FE8B30&height=200&section=footer&fontAlignY=60&fontColor=fff)
