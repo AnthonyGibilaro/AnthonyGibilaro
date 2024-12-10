@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9843&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack+Passionné;Next.js+%26+TypeScript;À+la+recherche+d'une+alternance;Créateur+du+GibiLab+🐱" alt="Typing SVG" />
 
 <div align="right">
-  <a href="README_EN.md">🇬🇧 English version</a>
+  <a href="README_EN.md">🇺🇸 English version</a>
 </div>
 
 </div>
