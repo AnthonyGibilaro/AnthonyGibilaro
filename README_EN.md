@@ -109,10 +109,78 @@ I'm excited to deepen my knowledge of these technologies and explore new learnin
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+### UI Libraries & Tools
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![React Admin](https://img.shields.io/badge/React_Admin-2196F3?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Deployment & Hosting
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
+## 🌈 Learning Goals
+
+- Deepen my understanding of modern web application architecture
+- Improve my performance optimization skills
+- Explore best practices in web security
+- Contribute to open source projects to gain experience
+- Master the use of Redux for complex state management
+- Enhance my knowledge of GraphQL with Hasura
+
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9843,50:FFA726,100:FF9843&height=200&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=80)
+## 🎯 **Recent Projects**
+
+<div align="center">
+
+<a href="https://github.com/AnthonyGibilaro/E-commerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyGibilaro&repo=E-commerce&theme=transparent&title_color=FF9843&icon_color=FF9843&text_color=ffffff&border_color=FF9843" />
+</a>
+
+<a href="https://github.com/AnthonyGibilaro/MyEvents">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyGibilaro&repo=MyEvents&theme=transparent&title_color=FF9843&icon_color=FF9843&text_color=ffffff&border_color=FF9843" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 **Let's Stay in Touch**
+
+<div align="center">
+
+<a href="mailto:contact@gibilab.com">
+  <img src="https://img.shields.io/badge/Email-FF9843?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/anthony-gibilaro/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.gibilab.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF9843?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
+
+💼 **Open to apprenticeship opportunities**  
+🤝 **Available for collaborations**  
+🐱 **Always happy to talk about code... and cats!**
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9843,50:FFA726,100:FF9843&height=200&section=footer&text=Thank%20you%20for%20your%20visit!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=80)
 
 </div>
