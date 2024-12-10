@@ -1,122 +1,118 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FE8B30,50:ff9800,100:FE8B30&height=300&section=header&text=Anthony%20Gibilaro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9843,50:FFA726,100:FF9843&height=300&section=header&text=Welcome%20to%20my%20Lab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Anthony%20Gibilaro%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AnthonyGibilaro&color=blueviolet&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/AnthonyGibilaro)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonygibilaro/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4cc9f0?style=for-the-badge&logo=google-chrome)](https://www.gibilab.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-4361ee?style=for-the-badge&logo=gmail)](mailto:contact@gibilab.com)  
+<div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Experience+in+Next.js+and+TypeScript;Looking+for+a+work-study+opportunity;Passionate+about+coding+and+cats+🐱" alt="Typing SVG" />
+[![Visits](https://komarev.com/ghpvc/?username=AnthonyGibilaro&color=FF9843&style=for-the-badge&label=VISITORS)](https://github.com/AnthonyGibilaro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GIBILAB-FF9843?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMkwyIDdsMTAgNSAxMC01LTEwLTV6Ii8+PHBhdGggZD0iTTIgMTdsMTAgNSAxMC01Ii8+PHBhdGggZD0iTTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)](https://www.gibilab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonygibilaro)
+[![Email](https://img.shields.io/badge/Email-CONTACT-FF9843?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gibilab.com)
 
 </div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9843&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Next.js+%26+TypeScript;Seeking+an+Apprenticeship;Creator+of+GibiLab+🐱" alt="Typing SVG" />
 
 <div align="right">
-  <a href="README.md">Lire en français</a>
+  <a href="README.md">🇫🇷 Version française</a>
+</div>
+
 </div>
 
 ---
 
-## 🧑‍💻 **About Me**
+<div align="center">
 
-Hi! 👋 I'm Anthony, a passionate full-stack web developer dedicated to creating modern and efficient web applications. I'm currently looking for a work-study opportunity to further develop my skills and contribute to innovative projects.
-
-- 🔍 **Actively seeking a work-study position**  
-- 🎓 Bac+2 graduate in web development from [Web@cademie by Epitech](https://www.epitech.eu/)  
-- 💻 Passionate about **Next.js**, **TypeScript**, and **TailwindCSS**  
-- 🐾 Animal lover, proud companion of **Crunsh** and **Twix** 🐱  
-- 🌱 Always eager to learn new skills and take on technical challenges  
-- 🎮 Gamer in my free time (when I'm not coding!)
-
----
-
-## 🚀 **Professional Journey**
+## 🧪 **Welcome to GibiLab**
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
-### 🎯 **Goal**
-- 🔍 Find a stimulating work-study position in web development  
-- 🌱 Continue learning and growing professionally  
-- 💡 Contribute to impactful projects  
+### 🎯 **Mission**
+I'm a full-stack web developer passionate about creating innovative and high-performance web experiences. My approach combines creativity and technical expertise to bring unique projects to life.
 
-### 🎓 **Education**
-- Bac+2 graduate from **Web@cademie by Epitech**  
-- Intensive training in web development and agile methodologies  
-- Hands-on projects and teamwork experience  
+### 🔍 **Current Goals**
+- 🎓 Looking for an apprenticeship to continue my growth
+- 🌱 Constantly developing new skills
+- 💡 Contributing to innovative projects
+- 🐱 Creating web applications with a feline touch
 
-### 💼 **Experience**
-- Built various web projects (personal & academic)  
-- Effective collaboration in teams  
-- Active tech watch (always on top of the latest trends!)
+### 🎨 **Philosophy**
+- 💻 Clean and maintainable code
+- 🚀 Performance and innovation
+- 🤝 Collaboration and sharing
+- 🌟 Continuous improvement
 
 </td>
-<td>
+<td width="40%">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+<img src="https://raw.githubusercontent.com/AnthonyGibilaro/AnthonyGibilaro/main/assets/logogibilabmoove.gif" width="300" alt="GibiLab Logo" />
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎨 **Recent Projects**
-
-<div align="center">
-  
-[![MyEvents Project](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyGibilaro&repo=MyEvents&theme=radical)](https://github.com/AnthonyGibilaro/MyEvents)
-[![E-commerce Project](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyGibilaro&repo=E-commerce&theme=radical)](https://github.com/AnthonyGibilaro/E-commerce)
-
 </div>
 
 ---
 
-## 🚀 **Technologies & Tools**
-
 <div align="center">
 
-### 🌐 **Front-end**
+# 👨‍💻 My Journey as a Junior Developer
 
+## 🌱 Technologies in Progress
+
+### Front-end
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ **Back-end**
-
+### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### 🛠️ **Tools**
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Tools & Infrastructure
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
+## 🚀 My Approach
+
+As a junior developer, I'm passionate about continuous learning and improving my skills. My current tech stack reflects my interest in modern web technologies:
+
+- Building user interfaces with React and Next.js
+- Using TypeScript for more robust code
+- Efficient styling with TailwindCSS
+- Back-end development with Node.js and exploring tRPC
+- Data management with Prisma and PostgreSQL
+- Discovering the Supabase ecosystem
+- Validation and typing with Zod for better code reliability
+
+I'm excited to deepen my knowledge of these technologies and explore new learning opportunities.
+
+## 🌟 Additional Skills
+
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
-## 📫 **Get in Touch**
-
 <div align="center">
 
-Interested in discussing exciting projects, sharing coding tips, or just talking about our cats? Feel free to contact me!
-
-[![Email](https://img.shields.io/badge/Email-contact@gibilab.com-3c3c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gibilab.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Gibilaro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonygibilaro)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-agibilaro.com-ff9800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gibilab.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FE8B30,50:ff9800,100:FE8B30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=80)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9843,50:FFA726,100:FF9843&height=200&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=80)
 
 </div>
