@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 **About Me**
 
-- 🔭 Currently in an apprenticeship at [GibiLab](https://www.gibilab.com)  
+- 🔍 Currently looking for an apprenticeship  
 - 🎓 Holder of a Bac+2 degree in web development from the [Web@cademie by Epitech](https://www.epitech.eu/)  
 - 💻 Passionate about **Next.js**, **TypeScript**, and **TailwindCSS**  
 - 🐾 Animal lover, proud companion of **Crunsh** and **Twix** 🐱  
