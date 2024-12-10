@@ -15,7 +15,7 @@
 
 <div align="center">
 
-- 🔭 Actuellement en recherche d'alternance  
+- 🔍 Actuellement en recherche d'alternance  
 - 🎓 Diplômé Bac+2 en développement web de la [Web@cademie d'Epitech](https://www.epitech.eu/)  
 - 💻 Passionné par **Next.js**, **TypeScript**, et **TailwindCSS**  
 - 🐾 Amoureux des animaux, fier compagnon de **Crunsh** et **Twix** 🐱  
