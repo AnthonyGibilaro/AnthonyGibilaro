@@ -80,7 +80,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-contact@gibilab.com-3c3c3c?style=flat&logo=protonmail&logoColor=white)](mailto:contact@gibilab.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Gibilaro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthonygibilaro)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Gibilaro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-gibilaro/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-gibilab.com-ff9800?style=flat&logo=web&logoColor=white)](https://www.gibilab.com)
 
 </div>
