@@ -6,7 +6,7 @@
 
 [![Visites](https://komarev.com/ghpvc/?username=AnthonyGibilaro&color=FF9843&style=for-the-badge&label=VISITEURS)](https://github.com/AnthonyGibilaro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GIBILAB-FF9843?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMkwyIDdsMTAgNSAxMC01LTEwLTV6Ii8+PHBhdGggZD0iTTIgMTdsMTAgNSAxMC01Ii8+PHBhdGggZD0iTTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)](https://www.gibilab.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECTER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonygibilaro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECTER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-gibilaro/)
 [![Email](https://img.shields.io/badge/Email-CONTACT-FF9843?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gibilab.com)
 
 </div>
@@ -162,7 +162,7 @@ Je suis enthousiaste à l'idée d'approfondir ces technologies et d'explorer de 
 <a href="mailto:contact@gibilab.com">
   <img src="https://img.shields.io/badge/Email-FF9843?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/anthonygibilaro">
+<a href="https://www.linkedin.com/in/anthony-gibilaro/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.gibilab.com">
