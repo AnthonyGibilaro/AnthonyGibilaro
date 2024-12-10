@@ -92,8 +92,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Gibilaro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonygibilaro)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-agibilaro.com-ff9800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gibilab.com)
 
-</div>
-
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FE8B30,50:ff9800,100:FE8B30&height=200&section=footer&fontAlignY=60&fontColor=fff)
+
+</div>
+
